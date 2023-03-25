@@ -1,0 +1,12 @@
+.AnalyticsOverviewChart g .recharts-cartesian-grid-vertical,
+.AnalyticsOverviewChart g .recharts-cartesian-grid-vertical > line:hover {
+  display: none !important;
+}
+
+.AnalyticsOverviewChart .recharts-legend-item {
+  display: none !important;
+}
+.AnalyticsOverviewChart .AnalyticsOverview_tooltip {
+  background: #161515 !important;
+  color: #ffffff !important;
+}
